@@ -36,10 +36,8 @@ Press install and press/follow the dialog options. As a disclaimer note the perm
 ![Tut02](./03_AppPermissions.png "Subtext")
 
 A word of warning the app, at the time of this writing, is over 47MB, so I'd reccomend using a wi-fi connection for speed and not to use your data plan.
-Also, the app has the following permissions:
+Eventually the app will install and you can fire up TIDE with "open":
 ![Tut02](./04_AppInstalled.png "Subtext")
-
-Eventually the app will install and you can fire up TIDE with "open".
 
 ##Running TIDE for the First Time
 ![Tut02](./05_TIDEFirstScreen.png "Subtext")
