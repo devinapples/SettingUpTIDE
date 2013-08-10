@@ -21,16 +21,33 @@ I encourage you to play around with this document, but know that it provides no 
 THE TUTORIAL!
 =============
 ##Getting TIDE from Google Play 
-##Running TIDE for the First Time
-##Other Commentary
+The first step in the process is to start up Google Play and search "Terminal IDE", and case of the words does not matter.
+See the image below for an example search:
 ![Tut02](./01_SearchTIDE.png "Subtext")
+
+We are looking for the application created by Sparticus Rex.
+As we can see the first search returned was the proper app, but this is never guarenteed.
+Additinally, the image for the app may change, so we wary of clones/spoofed software.
+
+When you select the app you should see something like this:
 ![Tut02](./02_AppPreInstall.png "Subtext")
+
+Press install and press/follow the dialog options. As a disclaimer note the permissions needed by TIDE:
 ![Tut02](./03_AppPermissions.png "Subtext")
+
+A word of warning the app, at the time of this writing, is over 47MB, so I'd reccomend using a wi-fi connection for speed and not to use your data plan.
+Also, the app has the following permissions:
 ![Tut02](./04_AppInstalled.png "Subtext")
+
+Eventually the app will install and you can fire up TIDE with "open".
+
+##Running TIDE for the First Time
 ![Tut02](./05_TIDEFirstScreen.png "Subtext")
 ![Tut02](./06_TIDEMissingSystem.png "Subtext")
 ![Tut02](./07_TIDESystemInstallFirst.png "Subtext")
 ![Tut02](./08_TIDESystemDownload.png "Subtext")
 ![Tut02](./09_TIDESystemInstalling.png "Subtext")
 ![Tut02](./10_TIDESystemInstalledLast.png "Subtext")
+![Tut02](./11_TIDERunning.png "Subtext")
 
+##Other Commentary
