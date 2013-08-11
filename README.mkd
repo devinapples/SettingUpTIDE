@@ -1,0 +1,36 @@
+% Setting-up and First Time Run of Terminal IDE
+% Devin Apples
+% 2013-08-10
+
+Introduction
+============
+This following document shows how to accquire Terminal IDE (TIDE) from Google Play and how run (and what to expect) TIDE for the first time.
+The document offers no FAQ nor advice for any errors that may occur during this process, and I can only reccomend to Google search your issue.
+Additionally, this document nor information is in no way related nor endorsed by Sparticus Rex.
+
+Enjoy! 
+
+A Quick Diversion
+=================
+**"What the heck is TIDE and this document anyways?"** you may be asking yourself.
+If this is the case I'd highly reccomend you to search the term: IDE or Integrated Development Environment.
+In short: TIDE allows you develop software on Android devices with free tools.
+I encourage you to play around with this document, but know that it provides no advice or howto on the topic of software development.
+(Google search "Learn <enter languge> the hardway" or "Learn X in Y minutes programming" for well crafted tutorials.)
+
+THE TUTORIAL!
+=============
+##Getting TIDE from Google Play 
+##Running TIDE for the First Time
+##Other Commentary
+![Tut02](./01_SearchTIDE.png "Subtext")
+![Tut02](./02_AppPreInstall.png "Subtext")
+![Tut02](./03_AppPermissions.png "Subtext")
+![Tut02](./04_AppInstalled.png "Subtext")
+![Tut02](./05_TIDEFirstScreen.png "Subtext")
+![Tut02](./06_TIDEMissingSystem.png "Subtext")
+![Tut02](./07_TIDESystemInstallFirst.png "Subtext")
+![Tut02](./08_TIDESystemDownload.png "Subtext")
+![Tut02](./09_TIDESystemInstalling.png "Subtext")
+![Tut02](./10_TIDESystemInstalledLast.png "Subtext")
+
