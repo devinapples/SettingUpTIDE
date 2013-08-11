@@ -40,12 +40,36 @@ Eventually the app will install and you can fire up TIDE with "open":
 ![Tut02](./04_AppInstalled.png "Subtext")
 
 ##Running TIDE for the First Time
+When you fire up TIDE it looks like this (both the fisrt and normal boot process): 
 ![Tut02](./05_TIDEFirstScreen.png "Subtext")
+
+Note there are 6 different base-menu selections.
+The main button to use TIDE is "Terminal IDE".
+However, please click around and discover the different menu options.
+If you click "Terminal IDE", during the first execution, it will warn you about a "new system".
+In fact you have NO SYSTEM, so it will send you to the "Install System" menu:
 ![Tut02](./06_TIDEMissingSystem.png "Subtext")
+
+Notice that that the current system text shows "no system installed".
+At this point just select the "Install System" button on the right:
 ![Tut02](./07_TIDESystemInstallFirst.png "Subtext")
+
+TIDE will start the download and you will see a loading screen like the following:
 ![Tut02](./08_TIDESystemDownload.png "Subtext")
+
+When TIDE gathers all the files needed it will start the installation and extraction of the needed tools:
 ![Tut02](./09_TIDESystemInstalling.png "Subtext")
+
+At this point TIDE will be installed and you can see that the Install System menu should have the current system the same as the latest system:
 ![Tut02](./10_TIDESystemInstalledLast.png "Subtext")
+
+If you press your back arrow, and select Terminal IDE it will finally drop down into TIDE:
 ![Tut02](./11_TIDERunning.png "Subtext")
 
+Congrats!
+That's it you have TIDE and you can use it for all its glorious development capabilities.
+
 ##Other Commentary
+At this point in time there are no know issues/quirks.
+However, I have only tested this IDE on tablets (a motorola and a toshiba), so please drop me a line if stuff hits the fan for you.
+
