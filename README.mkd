@@ -40,7 +40,7 @@ Eventually the app will install and you can fire up TIDE with "open":
 ![Tut02](./04_AppInstalled.png "Subtext")
 
 ##Running TIDE for the First Time
-When you fire up TIDE it looks like this (both the fisrt and normal boot process): 
+When you fire up TIDE it looks like this (both the first and normal boot process): 
 ![Tut02](./05_TIDEFirstScreen.png "Subtext")
 
 Note there are 6 different base-menu selections.
@@ -73,3 +73,8 @@ That's it you have TIDE and you can use it for all its glorious development capa
 At this point in time there are no know issues/quirks.
 However, I have only tested this IDE on tablets (a motorola and a toshiba), so please drop me a line if stuff hits the fan for you.
 
+Related Tutorials
+=================
+##Git configuration for GitHub
+I have another instructional (with out images) regarding how to setup TIDE to allow GitHub access.
+The information can be found here: [GitHub on TIDE](https://github.com/devinapples/GitTIDE)
